@@ -1,0 +1,29 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "1",
+      "localizations": [
+        {
+          "description": "Monthly route cost comparison and mileage cost projection",
+          "displayName": "Tolltrack Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.tolllog.pro",
+      "referenceName": "Tolltrack Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
